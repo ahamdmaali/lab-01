@@ -1,0 +1,218 @@
+
+
+    nav{
+        width: 960px;
+        height: 100px;
+        background-color:yellow;
+        text-align: center;
+        line-height:100px;
+        border:1px gray solid;
+         color: red;
+        
+    }
+    
+    #b{
+        position: absolute;
+        width: 200px;
+        height: 600px;
+        background-color:red;
+        border:1px grey solid;
+        top:100px;
+        text-align: center;
+        line-height:600px;
+        color: yellow;
+    }
+    #c{
+        position: absolute;
+        width: 380px;
+        height: 200px;
+        left:200px;
+        top:100px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:200px;
+        background-color:green;
+        color: blue;
+    }
+    #d{
+        position: absolute;
+        width: 380px;
+        height: 200px;
+        left:580px;
+        top:100px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:200px;
+        background-color:blue;
+        color: brown;
+    }
+    #e{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left:200px;
+        top:300px;
+        border: 1px grey solid;
+        text-align: center;
+        line-height:250px;
+        background-color:black;
+        color: white;
+    }
+    #f{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left:390px;
+        top:300px;
+        border: 1px white solid;
+        text-align: center;
+        line-height:250px;
+        background-color:orangered;
+        color: black;
+    }
+    #g{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left:580px;
+        top:300px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:250px;
+        color: rgb(93, 238, 10);
+        background-color:rgb(221, 10, 151);
+    }
+    #h{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left:770px;
+        top:300px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:250px;
+        background-color:rgb(13, 231, 213);
+        color: rgb(236, 5, 5);
+    }
+    #i{
+        position: absolute;
+        width: 760px;
+        height: 150px;
+        left:200px;
+        top:550px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:150px;
+        background-color:rgb(8, 94, 116);
+        color: rgb(226, 21, 99);
+    }
+
+@media (max-width:767px) {
+    nav{
+        width: 480px;
+        height: 75px;
+        background-color:yellow(105, 105, 105, 0.247);
+        text-align: center;
+        line-height:100px;
+        border:1px gray solid;
+         color: red;
+        
+    }
+    
+    #b{
+       position: absolute;
+        width: 480px;
+        height: 150px;
+        background-color:red ;
+        border:1px grey solid;
+        top:75px;
+        text-align: center;
+        line-height:150px;
+        color: yellow;
+    }
+    #c{
+        position: absolute;
+        width: 480px;
+        height: 125px;
+        top: 225px;
+        left: 0px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:125px;
+        background-color:green;
+        color: blue;
+    }
+    #d{
+        position: absolute;
+        width: 480px;
+        height: 125px;
+        left: 0px;
+        top:350px ;
+        border:1px grey solid;
+        text-align: center;
+        line-height:200px;
+        background-color:blue;
+        color: brown;
+    }
+    
+    #e{
+        
+        width: 240px;
+        height: 250px;
+        left:0px;
+        top:475px;
+        border: 1px grey solid;
+        text-align: center;
+        line-height:250px;
+        background-color:black;
+        color: white;
+    }
+    #f{
+       
+        width: 240px;
+        height: 250px;
+        left:240px;
+        top:475px;
+        border: 1px grey solid;
+        text-align: center;
+        line-height:250px;
+        background-color:orangered;
+        color: black;
+    }
+    #g{
+       
+        width: 240px;
+        height: 250px;
+        left:0px;
+        top:725px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:250px;
+        color: rgb(93, 238, 10);
+        background-color:rgb(221, 10, 151);
+    }
+    #h{
+       
+        width: 240px;
+        height: 250px;
+        left:240px;
+        top:725px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:250px;
+        background-color:rgb(13, 231, 213);
+        color: rgb(236, 5, 5);
+    }
+    #i{
+        
+        width: 480px;
+        height: 80px;
+        left:0px;
+        top:975px;
+        border:1px grey solid;
+        text-align: center;
+        line-height:80px;
+        background-color:rgb(8, 94, 116);
+        color: rgb(226, 21, 99);
+    }
+}

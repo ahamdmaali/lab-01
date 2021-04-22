@@ -180,15 +180,14 @@ main{
             background-color:yellow;
             text-align: center;
             grid-column: span 3;
-           
             
         }
         #b{
             
             background-color:red;
             
-         
-            grid-row: span 7;
+            grid-row: span 1;
+            grid-column: span 3;
             color: yellow;
         }
         
@@ -197,37 +196,37 @@ main{
         
             
             
-            grid-column: span 2;
+            grid-column: span 3;
             background-color:green;
             color: blue;
         }
         #d{
-            grid-column: span 2;
+            grid-column: span 3;
             background-color:blue;
             color: brown;
         }
         #e{
-            grid-column: span 2;
+            grid-column: span 3;
             background-color:black;
             color: white;
         }
         #f{
-            grid-column: span 2;
+            grid-column: span 3;
             background-color:orangered;
             color: black;
         }
         #g{
-            grid-column: span 2;
+            grid-column: span 3;
             color: rgb(93, 238, 10);
             background-color:rgb(221, 10, 151);
         }
         #h{
-            grid-column: span 2;
+            grid-column: span 3;
             background-color:rgb(13, 231, 213);
             color: rgb(236, 5, 5);
         }
         #i{
-            grid-column: span 2;
+            grid-column: span 3;
             background-color:rgb(8, 94, 116);
             color: rgb(226, 21, 99);
         }
